@@ -1,4 +1,4 @@
-# yyyy-mm-dd Problem Name
+# yyyy-mm-dd Kiến thức / Kỹ thuật mới
 
 Link đầu bài:
 
